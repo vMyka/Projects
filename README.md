@@ -1,5 +1,5 @@
-// Projects
+# Projects
     repository for completed projects
 
-// Overview of all projects found within this repository
+# Overview of all projects found within this repository
 
